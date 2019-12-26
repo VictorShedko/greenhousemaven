@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+<flowers xmlns="http://by.victor.epam"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://by.victor.epam greenhouseScheme.XSD">
+    <plant title="heather">
+
+    </plant>
+
+    <error title="lily" capriciousness="high">
+        <visual-parameters> <!--ввести общий тип tips  и добавить в него кучу маленьких типов -->
+            <height>50</height>
+        </visual-parameters>
+        <visual-parameters>
+            <stick-color>green</stick-color>
+        </visual-parameters>
+        <growing-tips>
+            <heliophilous>true</heliophilous>
+        </growing-tips>
+        <growing-tips>
+            <watering>200</watering>
+        </growing-tips>
+        <growing-tips>
+            <min-temperature>22</min-temperature>
+        </growing-tips>
+        <growing-tips>
+            <max-temperature>41</max-temperature>
+        </growing-tips>
+        <multiplying>seed</multiplying>
+        <soil>podzolic</soil>
+        <flowering-time>
+            <start-month>--05</start-month>
+            <end-month>--07</end-month>
+        </flowering-time>
+        <possible-inflorescence-color>
+            <color>white</color>
+            <color>red</color>
+            <color>yellow</color>
+        </possible-inflorescence-color>
+    </error>
+
+    <flower origin="South America" title="orchid">
+        <visual-parameters>
+            <height>20</height>
+        </visual-parameters>
+        <growing-tips>
+            <heliophilous>true</heliophilous>
+        </growing-tips>
+        <flowering-time>
+            <start-month>--06</start-month>
+            <end-month>--10</end-month>
+        </flowering-time>
+        <possible-inflorescence-color>
+            <color>white</color>
+            <color>red</color>
+            <color>yellow</color>
+        </possible-inflorescence-color>
+
+    </flower>
+    <flower title="rose">
+        <visual-parameters>
+            <height>50</height>
+        </visual-parameters>
+        <visual-parameters>
+            <leaf-color>green</leaf-color>
+        </visual-parameters>
+        <visual-parameters>
+            <stick-color>green</stick-color>
+        </visual-parameters>
+        <growing-tips>
+
+            <watering>200</watering>
+        </growing-tips>
+        <growing-tips>
+            <min-temperature>22</min-temperature>
+        </growing-tips>
+        <growing-tips>
+            <max-temperature>41</max-temperature>
+        </growing-tips>
+        <flowering-time>
+            <start-month>--05</start-month>
+            <end-month>--06</end-month>
+        </flowering-time>
+        <possible-inflorescence-color>
+            <color>white</color>
+            <color>red</color>
+            <color>yellow</color>
+        </possible-inflorescence-color>
+
+    </flower>
+    <flower title="tulip">
+        <visual-parameters>
+            <height>50</height>
+
+        </visual-parameters>
+        <growing-tips>
+
+            <watering>200</watering>
+        </growing-tips>
+        <growing-tips>
+            <min-temperature>22</min-temperature>
+        </growing-tips>
+        <growing-tips>
+            <max-temperature>41</max-temperature>
+        </growing-tips>
+        <flowering-time>
+            <start-month>--01</start-month>
+            <end-month>--03</end-month>
+        </flowering-time>
+        <possible-inflorescence-color>
+            <color>white</color>
+            <color>red</color>
+            <color>yellow</color>
+        </possible-inflorescence-color>
+
+    </flower>
+    <flower title="clove">
+        <visual-parameters>
+            <height>50</height>
+        </visual-parameters>
+        <visual-parameters>
+            <leaf-color>green</leaf-color>
+        </visual-parameters>
+        <visual-parameters>
+            <stick-color>green</stick-color>
+        </visual-parameters>
+
+
+        <growing-tips>
+            <watering>300</watering>
+        </growing-tips>
+        <flowering-time>
+            <start-month>--04</start-month>
+            <end-month>--05</end-month>
+        </flowering-time>
+        <possible-inflorescence-color>
+            <color>white</color>
+            <color>red</color>
+            <color>yellow</color>
+        </possible-inflorescence-color>
+
+    </flower>
+
+    <plant title="juniper" origin="North-Europe">
+        <visual-parameters>
+            <height>50</height>
+
+        </visual-parameters>
+        <growing-tips>
+            <max-temperature>41</max-temperature>
+        </growing-tips>
+    </plant>
+
+    <plant title="bamboo" origin="East-Asia">
+        <visual-parameters>
+
+            <stick-color>green</stick-color>
+        </visual-parameters>
+        <growing-tips>
+            <min-temperature>22</min-temperature>
+        </growing-tips>
+        <growing-tips>
+            <max-temperature>41</max-temperature>
+        </growing-tips>
+    </plant>
+
+    <plant title="citrus">
+
+    </plant>
+
+    <plant title="mandarin">
+
+    </plant>
+
+    <plant title="yucca">
+
+    </plant>
+
+    <plant title="pineapple">
+
+    </plant>
+
+    <plant title="potato">
+
+    </plant>
+</flowers>

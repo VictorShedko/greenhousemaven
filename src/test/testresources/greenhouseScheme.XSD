@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+        targetNamespace="http://by.victor.epam"
+        xmlns:ns="http://by.victor.epam"
+        elementFormDefault="qualified">
+    <element name="flowers">
+        <complexType>
+            <sequence>
+                <element ref="ns:plant"  maxOccurs="unbounded"/>
+            </sequence>
+        </complexType>
+    </element>
+
+    <complexType name="Plant">
+        <sequence>
+            <element name="visual-parameters" type="ns:Visual-parameters" minOccurs="0" maxOccurs="unbounded"/>
+            <element name="growing-tips" type="ns:Growing-tips" minOccurs="0" maxOccurs="unbounded"/>
+            <element name="multiplying" type="ns:Multiplying-type" minOccurs="0" maxOccurs="3"/>
+            <element name="soil" type="ns:SoilType" minOccurs="0" maxOccurs="unbounded"/>
+        </sequence>
+        <attribute name="capriciousness" type="ns:Capriciousness" default="medium"/>
+        <attribute name="title" type="ns:PlantTitle" use="required"/>
+        <attribute name="origin" type="ns:Origin" use="optional"/>
+    </complexType>
+
+    <complexType name="Flower">
+        <complexContent>
+            <extension base="ns:Plant">
+                <sequence>
+                    <element name="flowering-time">
+                        <complexType>
+                            <sequence>
+                                <element name="start-month" type="gMonth"/>
+                                <element name="end-month" type="gMonth"/>
+                            </sequence>
+                        </complexType>
+                    </element>
+
+                    <element name="possible-inflorescence-color" >
+                        <complexType>
+                            <sequence>
+                                <element  name="color" type="ns:Color" maxOccurs="unbounded"></element>
+                            </sequence>
+                        </complexType>
+                    </element>
+                </sequence>
+
+            </extension>
+        </complexContent>
+    </complexType>
+
+    <complexType name="Visual-parameters">
+        <choice>
+            <element name="stick-color" type="ns:Color" ></element>
+            <element name="leaf-color" type="ns:Color" ></element>
+            <element name="height" type="positiveInteger" minOccurs="0" ></element>
+        </choice>
+
+    </complexType>
+
+    <complexType name="Growing-tips">
+        <choice>
+            <element name="heliophilous" type="boolean"></element>
+            <element name="watering" >
+                <simpleType>
+                    <restriction base="positiveInteger">
+                        <maxExclusive value="10000"></maxExclusive>
+                    </restriction>
+                </simpleType>
+            </element>
+            <element name="min-temperature" type="ns:Temperature" ></element>
+            <element name="max-temperature" type="ns:Temperature" ></element>
+        </choice>
+
+    </complexType>
+
+    <simpleType name="PlantTitle">
+        <restriction base="ID">
+            <pattern value="[a-zA-Zа-яА-Я\-']{2,}"/>
+        </restriction>
+    </simpleType>
+
+    <simpleType name="SoilType">
+
+        <restriction base="string">
+            <enumeration value="podzolic"></enumeration>
+            <enumeration value="ground"></enumeration>
+            <enumeration value="sod-podzolic soil"></enumeration>
+        </restriction>
+
+
+    </simpleType>
+    <simpleType name="Origin">
+
+        <restriction base="string">
+            <pattern value="([A-ZА-Я][a-zA-ZА-Я\-]+)(\s[A-ZА-Я]*[a-z]+)*"/>
+        </restriction>
+
+
+    </simpleType>
+    <simpleType name="Multiplying-type">
+
+        <restriction base="string">
+            <enumeration value="leaf"></enumeration>
+            <enumeration value="stalk"></enumeration>
+            <enumeration value="seed"></enumeration>
+        </restriction>
+
+
+    </simpleType>
+
+    <simpleType name="Temperature">
+
+        <restriction base="positiveInteger">
+            <maxExclusive value="60"></maxExclusive>
+            <minExclusive value="1"></minExclusive>
+        </restriction>
+
+
+    </simpleType>
+
+    <simpleType name="Capriciousness">
+        <restriction base="string">
+            <enumeration value="high"></enumeration>
+            <enumeration value="medium"></enumeration>
+            <enumeration value="low"></enumeration>
+        </restriction>
+    </simpleType>
+
+    <simpleType name="Color">
+        <restriction base="string">
+            <enumeration value="white"></enumeration>
+            <enumeration value="red"></enumeration>
+            <enumeration value="orange"></enumeration>
+            <enumeration value="green"></enumeration>
+            <enumeration value="yellow"></enumeration>
+            <enumeration value="blue"></enumeration>
+            <enumeration value="light-green"></enumeration>
+            <enumeration value="dark-green"></enumeration>
+            <enumeration value="green"></enumeration>
+        </restriction>
+    </simpleType>
+    <element name="plant" type="ns:Plant" ></element>
+    <element name="flower" type="ns:Flower" substitutionGroup="ns:plant"></element>
+
+</schema>

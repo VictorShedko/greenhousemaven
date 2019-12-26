@@ -1,0 +1,178 @@
+ERROR - 41 : 49 - cvc-id.2: There are multiple occurrences of ID value 'lily'.
+ERROR - 41 : 49 - cvc-id.2: There are multiple occurrences of ID value 'lily'.
+ERROR - 41 : 49 - cvc-attribute.3: The value 'lily' of attribute 'title' on element 'flower' is not valid with respect to its type, 'PlantTitle'.
+ERROR - 41 : 49 - cvc-attribute.3: The value 'lily' of attribute 'title' on element 'flower' is not valid with respect to its type, 'PlantTitle'.
+ERROR - 42 : 16 - cvc-complex-type.2.4.a: Invalid content was found starting with element 'color'. One of '{"http://by.victor.epam":visual-parameters, "http://by.victor.epam":growing-tips, "http://by.victor.epam":multiplying, "http://by.victor.epam":soil, "http://by.victor.epam":flowering-time}' is expected.
+ERROR - 42 : 16 - cvc-complex-type.2.4.a: Invalid content was found starting with element 'color'. One of '{"http://by.victor.epam":visual-parameters, "http://by.victor.epam":growing-tips, "http://by.victor.epam":multiplying, "http://by.victor.epam":soil, "http://by.victor.epam":flowering-time}' is expected.
+ERROR - 2 : 9 - Document is invalid: no grammar found.
+ERROR - 2 : 9 - Document root element "flowers", must match DOCTYPE root "null".
+ERROR - 2 : 9 - Document is invalid: no grammar found.
+ERROR - 2 : 9 - Document is invalid: no grammar found.
+ERROR - 2 : 9 - Document root element "flowers", must match DOCTYPE root "null".
+ERROR - 2 : 9 - Document root element "flowers", must match DOCTYPE root "null".
+ERROR - 2 : 9 - Document is invalid: no grammar found.
+ERROR - 2 : 9 - Document root element "flowers", must match DOCTYPE root "null".
+ERROR - 2 : 9 - Document is invalid: no grammar found.
+ERROR - 2 : 9 - Document is invalid: no grammar found.
+ERROR - 2 : 9 - Document root element "flowers", must match DOCTYPE root "null".
+ERROR - 2 : 9 - Document root element "flowers", must match DOCTYPE root "null".
+FATAL - 42 : 20 - Element type "colorgreen" must be followed by either attribute specifications, ">" or "/>".
+FATAL - 42 : 20 - Element type "colorgreen" must be followed by either attribute specifications, ">" or "/>".
+ERROR - 2 : 9 - Document is invalid: no grammar found.
+ERROR - 2 : 9 - Document root element "flowers", must match DOCTYPE root "null".
+ERROR - 2 : 9 - Document is invalid: no grammar found.
+ERROR - 2 : 9 - Document is invalid: no grammar found.
+ERROR - 2 : 9 - Document root element "flowers", must match DOCTYPE root "null".
+ERROR - 2 : 9 - Document root element "flowers", must match DOCTYPE root "null".
+ERROR - 2 : 9 - Document is invalid: no grammar found.
+ERROR - 2 : 9 - Document is invalid: no grammar found.
+ERROR - 2 : 9 - Document is invalid: no grammar found.
+ERROR - 2 : 9 - Document root element "flowers", must match DOCTYPE root "null".
+ERROR - 2 : 9 - Document root element "flowers", must match DOCTYPE root "null".
+ERROR - 2 : 9 - Document root element "flowers", must match DOCTYPE root "null".
+FATAL - 42 : 20 - Element type "colorgreen" must be followed by either attribute specifications, ">" or "/>".
+FATAL - 42 : 20 - Element type "colorgreen" must be followed by either attribute specifications, ">" or "/>".
+FATAL - 42 : 20 - Element type "colorgreen" must be followed by either attribute specifications, ">" or "/>".
+FATAL - 42 : 20 - Element type "colorgreen" must be followed by either attribute specifications, ">" or "/>".
+FATAL - 42 : 20 - Element type "colorgreen" must be followed by either attribute specifications, ">" or "/>".
+FATAL - 42 : 20 - Element type "colorgreen" must be followed by either attribute specifications, ">" or "/>".
+FATAL - 42 : 20 - Element type "colorgreen" must be followed by either attribute specifications, ">" or "/>".
+FATAL - 42 : 20 - Element type "colorgreen" must be followed by either attribute specifications, ">" or "/>".
+FATAL - 42 : 20 - Element type "colorgreen" must be followed by either attribute specifications, ">" or "/>".
+FATAL - 42 : 20 - Element type "colorgreen" must be followed by either attribute specifications, ">" or "/>".
+FATAL - 42 : 20 - Element type "colorgreen" must be followed by either attribute specifications, ">" or "/>".
+FATAL - 42 : 20 - Element type "colorgreen" must be followed by either attribute specifications, ">" or "/>".
+FATAL - 42 : 20 - Element type "colorgreen" must be followed by either attribute specifications, ">" or "/>".
+FATAL - 42 : 20 - Element type "colorgreen" must be followed by either attribute specifications, ">" or "/>".
+FATAL - 42 : 20 - Element type "colorgreen" must be followed by either attribute specifications, ">" or "/>".
+FATAL - 42 : 20 - Element type "colorgreen" must be followed by either attribute specifications, ">" or "/>".
+FATAL - 42 : 20 - Element type "colorgreen" must be followed by either attribute specifications, ">" or "/>".
+ERROR - 9 : 47 - cvc-complex-type.2.4.a: Invalid content was found starting with element 'error'. One of '{"http://by.victor.epam":plant}' is expected.
+ERROR - 9 : 47 - cvc-complex-type.2.4.a: Invalid content was found starting with element 'error'. One of '{"http://by.victor.epam":plant}' is expected.
+ERROR - 9 : 47 - cvc-complex-type.2.4.a: Invalid content was found starting with element 'error'. One of '{"http://by.victor.epam":plant}' is expected.
+FATAL - 42 : 20 - Element type "colorgreen" must be followed by either attribute specifications, ">" or "/>".
+FATAL - 42 : 20 - Element type "colorgreen" must be followed by either attribute specifications, ">" or "/>".
+ERROR - 9 : 47 - cvc-complex-type.2.4.a: Invalid content was found starting with element 'error'. One of '{"http://by.victor.epam":plant}' is expected.
+ERROR - 9 : 47 - cvc-complex-type.2.4.a: Invalid content was found starting with element 'error'. One of '{"http://by.victor.epam":plant}' is expected.
+ERROR - 9 : 47 - cvc-complex-type.2.4.a: Invalid content was found starting with element 'error'. One of '{"http://by.victor.epam":plant}' is expected.
+ERROR - 2 : 9 - Document is invalid: no grammar found.
+ERROR - 2 : 9 - Document is invalid: no grammar found.
+ERROR - 2 : 9 - Document is invalid: no grammar found.
+ERROR - 2 : 9 - Document is invalid: no grammar found.
+ERROR - 2 : 9 - Document is invalid: no grammar found.
+ERROR - 2 : 9 - Document is invalid: no grammar found.
+ERROR - 2 : 9 - Document is invalid: no grammar found.
+ERROR - 2 : 9 - Document is invalid: no grammar found.
+ERROR - 2 : 9 - Document is invalid: no grammar found.
+ERROR - 2 : 9 - Document is invalid: no grammar found.
+FATAL - 42 : 20 - Element type "colorgreen" must be followed by either attribute specifications, ">" or "/>".
+FATAL - 42 : 20 - Element type "colorgreen" must be followed by either attribute specifications, ">" or "/>".
+ERROR - 9 : 47 - cvc-complex-type.2.4.a: Invalid content was found starting with element 'error'. One of '{"http://by.victor.epam":plant}' is expected.
+ERROR - 9 : 47 - cvc-complex-type.2.4.a: Invalid content was found starting with element 'error'. One of '{"http://by.victor.epam":plant}' is expected.
+ERROR - 9 : 47 - cvc-complex-type.2.4.a: Invalid content was found starting with element 'error'. One of '{"http://by.victor.epam":plant}' is expected.
+ERROR - 41 : 51 - cvc-id.2: There are multiple occurrences of ID value 'orchid'.
+ERROR - 41 : 51 - cvc-id.2: There are multiple occurrences of ID value 'orchid'.
+ERROR - 41 : 51 - cvc-id.2: There are multiple occurrences of ID value 'orchid'.
+ERROR - 41 : 51 - cvc-id.2: There are multiple occurrences of ID value 'orchid'.
+FATAL - 42 : 20 - Element type "colorgreen" must be followed by either attribute specifications, ">" or "/>".
+FATAL - 42 : 20 - Element type "colorgreen" must be followed by either attribute specifications, ">" or "/>".
+ERROR - 9 : 47 - cvc-complex-type.2.4.a: Invalid content was found starting with element 'error'. One of '{"http://by.victor.epam":plant}' is expected.
+ERROR - 9 : 47 - cvc-complex-type.2.4.a: Invalid content was found starting with element 'error'. One of '{"http://by.victor.epam":plant}' is expected.
+ERROR - 9 : 47 - cvc-complex-type.2.4.a: Invalid content was found starting with element 'error'. One of '{"http://by.victor.epam":plant}' is expected.
+ERROR - 41 : 51 - cvc-id.2: There are multiple occurrences of ID value 'orchid'.
+ERROR - 41 : 51 - cvc-id.2: There are multiple occurrences of ID value 'orchid'.
+ERROR - 41 : 51 - cvc-id.2: There are multiple occurrences of ID value 'orchid'.
+ERROR - 41 : 51 - cvc-id.2: There are multiple occurrences of ID value 'orchid'.
+ERROR - 41 : 51 - cvc-attribute.3: The value 'orchid' of attribute 'title' on element 'flower' is not valid with respect to its type, 'PlantTitle'.
+ERROR - 41 : 51 - cvc-attribute.3: The value 'orchid' of attribute 'title' on element 'flower' is not valid with respect to its type, 'PlantTitle'.
+ERROR - 41 : 51 - cvc-attribute.3: The value 'orchid' of attribute 'title' on element 'flower' is not valid with respect to its type, 'PlantTitle'.
+ERROR - 41 : 51 - cvc-attribute.3: The value 'orchid' of attribute 'title' on element 'flower' is not valid with respect to its type, 'PlantTitle'.
+ERROR - 2 : 9 - Document is invalid: no grammar found.
+ERROR - 2 : 9 - Document root element "flowers", must match DOCTYPE root "null".
+ERROR - 2 : 9 - Document is invalid: no grammar found.
+ERROR - 2 : 9 - Document is invalid: no grammar found.
+ERROR - 2 : 9 - Document root element "flowers", must match DOCTYPE root "null".
+ERROR - 2 : 9 - Document root element "flowers", must match DOCTYPE root "null".
+FATAL - 42 : 20 - Element type "colorgreen" must be followed by either attribute specifications, ">" or "/>".
+FATAL - 42 : 20 - Element type "colorgreen" must be followed by either attribute specifications, ">" or "/>".
+ERROR - 2 : 9 - Document is invalid: no grammar found.
+ERROR - 2 : 9 - Document is invalid: no grammar found.
+ERROR - 2 : 9 - Document is invalid: no grammar found.
+ERROR - 2 : 9 - Document root element "flowers", must match DOCTYPE root "null".
+ERROR - 2 : 9 - Document root element "flowers", must match DOCTYPE root "null".
+ERROR - 2 : 9 - Document root element "flowers", must match DOCTYPE root "null".
+ERROR - 2 : 9 - Document is invalid: no grammar found.
+ERROR - 2 : 9 - Document is invalid: no grammar found.
+ERROR - 2 : 9 - Document is invalid: no grammar found.
+ERROR - 2 : 9 - Document is invalid: no grammar found.
+ERROR - 2 : 9 - Document root element "flowers", must match DOCTYPE root "null".
+ERROR - 2 : 9 - Document root element "flowers", must match DOCTYPE root "null".
+ERROR - 2 : 9 - Document root element "flowers", must match DOCTYPE root "null".
+ERROR - 2 : 9 - Document root element "flowers", must match DOCTYPE root "null".
+ERROR - 2 : 9 - Document is invalid: no grammar found.
+ERROR - 2 : 9 - Document root element "flowers", must match DOCTYPE root "null".
+ERROR - 2 : 9 - Document is invalid: no grammar found.
+ERROR - 2 : 9 - Document is invalid: no grammar found.
+ERROR - 2 : 9 - Document root element "flowers", must match DOCTYPE root "null".
+ERROR - 2 : 9 - Document root element "flowers", must match DOCTYPE root "null".
+FATAL - 42 : 20 - Element type "colorgreen" must be followed by either attribute specifications, ">" or "/>".
+FATAL - 42 : 20 - Element type "colorgreen" must be followed by either attribute specifications, ">" or "/>".
+ERROR - 2 : 9 - Document is invalid: no grammar found.
+ERROR - 2 : 9 - Document is invalid: no grammar found.
+ERROR - 2 : 9 - Document is invalid: no grammar found.
+ERROR - 2 : 9 - Document root element "flowers", must match DOCTYPE root "null".
+ERROR - 2 : 9 - Document root element "flowers", must match DOCTYPE root "null".
+ERROR - 2 : 9 - Document root element "flowers", must match DOCTYPE root "null".
+ERROR - 2 : 9 - Document is invalid: no grammar found.
+ERROR - 2 : 9 - Document is invalid: no grammar found.
+ERROR - 2 : 9 - Document is invalid: no grammar found.
+ERROR - 2 : 9 - Document is invalid: no grammar found.
+ERROR - 2 : 9 - Document root element "flowers", must match DOCTYPE root "null".
+ERROR - 2 : 9 - Document root element "flowers", must match DOCTYPE root "null".
+ERROR - 2 : 9 - Document root element "flowers", must match DOCTYPE root "null".
+ERROR - 2 : 9 - Document root element "flowers", must match DOCTYPE root "null".
+FATAL - 42 : 20 - Element type "colorgreen" must be followed by either attribute specifications, ">" or "/>".
+FATAL - 42 : 20 - Element type "colorgreen" must be followed by either attribute specifications, ">" or "/>".
+ERROR - 9 : 47 - cvc-complex-type.2.4.a: Invalid content was found starting with element 'error'. One of '{"http://by.victor.epam":plant}' is expected.
+ERROR - 9 : 47 - cvc-complex-type.2.4.a: Invalid content was found starting with element 'error'. One of '{"http://by.victor.epam":plant}' is expected.
+ERROR - 9 : 47 - cvc-complex-type.2.4.a: Invalid content was found starting with element 'error'. One of '{"http://by.victor.epam":plant}' is expected.
+ERROR - 41 : 51 - cvc-id.2: There are multiple occurrences of ID value 'orchid'.
+ERROR - 41 : 51 - cvc-id.2: There are multiple occurrences of ID value 'orchid'.
+ERROR - 41 : 51 - cvc-id.2: There are multiple occurrences of ID value 'orchid'.
+ERROR - 41 : 51 - cvc-id.2: There are multiple occurrences of ID value 'orchid'.
+ERROR - 41 : 51 - cvc-attribute.3: The value 'orchid' of attribute 'title' on element 'flower' is not valid with respect to its type, 'PlantTitle'.
+ERROR - 41 : 51 - cvc-attribute.3: The value 'orchid' of attribute 'title' on element 'flower' is not valid with respect to its type, 'PlantTitle'.
+ERROR - 41 : 51 - cvc-attribute.3: The value 'orchid' of attribute 'title' on element 'flower' is not valid with respect to its type, 'PlantTitle'.
+ERROR - 41 : 51 - cvc-attribute.3: The value 'orchid' of attribute 'title' on element 'flower' is not valid with respect to its type, 'PlantTitle'.
+FATAL - 42 : 20 - Element type "colorgreen" must be followed by either attribute specifications, ">" or "/>".
+FATAL - 42 : 20 - Element type "colorgreen" must be followed by either attribute specifications, ">" or "/>".
+ERROR - 9 : 47 - cvc-complex-type.2.4.a: Invalid content was found starting with element 'error'. One of '{"http://by.victor.epam":plant}' is expected.
+ERROR - 9 : 47 - cvc-complex-type.2.4.a: Invalid content was found starting with element 'error'. One of '{"http://by.victor.epam":plant}' is expected.
+ERROR - 9 : 47 - cvc-complex-type.2.4.a: Invalid content was found starting with element 'error'. One of '{"http://by.victor.epam":plant}' is expected.
+FATAL - 42 : 20 - Element type "colorgreen" must be followed by either attribute specifications, ">" or "/>".
+FATAL - 42 : 20 - Element type "colorgreen" must be followed by either attribute specifications, ">" or "/>".
+ERROR - 9 : 47 - cvc-complex-type.2.4.a: Invalid content was found starting with element 'error'. One of '{"http://by.victor.epam":plant}' is expected.
+ERROR - 9 : 47 - cvc-complex-type.2.4.a: Invalid content was found starting with element 'error'. One of '{"http://by.victor.epam":plant}' is expected.
+ERROR - 9 : 47 - cvc-complex-type.2.4.a: Invalid content was found starting with element 'error'. One of '{"http://by.victor.epam":plant}' is expected.
+FATAL - 42 : 20 - Element type "colorgreen" must be followed by either attribute specifications, ">" or "/>".
+FATAL - 42 : 20 - Element type "colorgreen" must be followed by either attribute specifications, ">" or "/>".
+ERROR - 9 : 47 - cvc-complex-type.2.4.a: Invalid content was found starting with element 'error'. One of '{"http://by.victor.epam":plant}' is expected.
+ERROR - 9 : 47 - cvc-complex-type.2.4.a: Invalid content was found starting with element 'error'. One of '{"http://by.victor.epam":plant}' is expected.
+ERROR - 9 : 47 - cvc-complex-type.2.4.a: Invalid content was found starting with element 'error'. One of '{"http://by.victor.epam":plant}' is expected.
+ERROR - 41 : 51 - cvc-id.2: There are multiple occurrences of ID value 'orchid'.
+ERROR - 41 : 51 - cvc-id.2: There are multiple occurrences of ID value 'orchid'.
+ERROR - 41 : 51 - cvc-id.2: There are multiple occurrences of ID value 'orchid'.
+ERROR - 41 : 51 - cvc-id.2: There are multiple occurrences of ID value 'orchid'.
+ERROR - 41 : 51 - cvc-attribute.3: The value 'orchid' of attribute 'title' on element 'flower' is not valid with respect to its type, 'PlantTitle'.
+ERROR - 41 : 51 - cvc-attribute.3: The value 'orchid' of attribute 'title' on element 'flower' is not valid with respect to its type, 'PlantTitle'.
+ERROR - 41 : 51 - cvc-attribute.3: The value 'orchid' of attribute 'title' on element 'flower' is not valid with respect to its type, 'PlantTitle'.
+ERROR - 41 : 51 - cvc-attribute.3: The value 'orchid' of attribute 'title' on element 'flower' is not valid with respect to its type, 'PlantTitle'.
+FATAL - 42 : 20 - Element type "colorgreen" must be followed by either attribute specifications, ">" or "/>".
+FATAL - 42 : 20 - Element type "colorgreen" must be followed by either attribute specifications, ">" or "/>".
+ERROR - 9 : 47 - cvc-complex-type.2.4.a: Invalid content was found starting with element 'error'. One of '{"http://by.victor.epam":plant}' is expected.
+ERROR - 9 : 47 - cvc-complex-type.2.4.a: Invalid content was found starting with element 'error'. One of '{"http://by.victor.epam":plant}' is expected.
+ERROR - 9 : 47 - cvc-complex-type.2.4.a: Invalid content was found starting with element 'error'. One of '{"http://by.victor.epam":plant}' is expected.
+ERROR - 41 : 51 - cvc-id.2: There are multiple occurrences of ID value 'orchid'.
+ERROR - 41 : 51 - cvc-id.2: There are multiple occurrences of ID value 'orchid'.
+ERROR - 41 : 51 - cvc-id.2: There are multiple occurrences of ID value 'orchid'.
+ERROR - 41 : 51 - cvc-id.2: There are multiple occurrences of ID value 'orchid'.
